@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ProductManagerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.045 s <<< FAILURE! - in ProductManagerTest
-test  Time elapsed: 0.037 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: array lengths differ, expected: <3> but was: <0>
-	at ProductManagerTest.test(ProductManagerTest.java:22)
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in ProductManagerTest

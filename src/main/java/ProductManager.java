@@ -19,6 +19,7 @@ public class ProductManager {
                     tmp[i] = result[i];
                 }
                 tmp[tmp.length - 1] = product;
+                result = tmp;
             }
         }
         return result;
